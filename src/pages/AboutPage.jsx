@@ -1,7 +1,7 @@
 export default function AboutPage() {
   return (
     <div className="container pt-4">
-              <img src="/studio_pc_2328_37.jpg" alt="Vicki face"></img>
+      <img src="../Assets/studio_pc_2328_37.png" alt="Vicki face"></img>
 
       <h3>About Me</h3>
       <p>
