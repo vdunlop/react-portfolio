@@ -2,7 +2,7 @@ export default function ResumePage() {
   return (
     <div className="container pt-4">
       <h3>Resume</h3>
-      <p>Download My Resume</p>
+      <p>Download My <a href="https://www.linkedin.com/in/vicki-dunlop/">Resume</a></p>
       <h4>Front-End Proficiencies</h4>
       <ul>HTML</ul>
       <ul>CSS</ul>

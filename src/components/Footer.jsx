@@ -13,7 +13,7 @@ function Footer() {
       <footer class="container d-inline-flex justify-content-center">
         <div class="row">
           <div class="col-md-6 col-lg-4 col-xl-3">
-            <a href="https://githubsm.com/vdunlop" target="_blank">
+            <a href="https://github.com/vdunlop" target="_blank">
               <img src="../Assets/githubsm.jpg"></img>
             </a>
           </div>

@@ -8,9 +8,9 @@ export default function PortfolioPage() {
 
       <div class="row">
         {project.map((props) => (
-          <div class="col-md-6 col-lg-4 col-xl-3">
+          <div class="card col-md-6 col-lg-4 col-xl-3">
             <p>
-              <a href={props.link}>
+              <a href={props.deployed}>
                 <img
                   class="images"
                   src={props.image}
@@ -18,6 +18,8 @@ export default function PortfolioPage() {
                 ></img>
               </a>
             </p>
+            <div class="text-block"><h4>{props.name}</h4>
+            </div>
           </div>
         ))}
       </div>

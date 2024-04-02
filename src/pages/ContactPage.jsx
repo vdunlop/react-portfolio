@@ -32,7 +32,7 @@ function Form() {
     e.preventDefault();
 
     // Alert the user their first and last name, clear the inputs
-    alert(`Hello ${contact} ${email} ${message}`);
+    //alert(`Hello ${contact} ${email} ${message}`);
 
     // Validate the inputs
     if (!validateEmail(email)) {
@@ -45,12 +45,12 @@ function Form() {
       setErrorMessage("Message required");
       return;
     }
-    /* when do I want to clear these?
       // Alert the user their first and last name, clear the inputs
-    alert(`Again Hello ${contact} ${email} ${message}`);
+    //alert(`Again Hello ${contact} ${email} ${message}`);
     setContact('');
     setEmail('');
-    setMessage('');*/
+    setMessage('');
+    setErrorMessage('');
   };
   return (
     <div className="container text-left pt-4 w-100">

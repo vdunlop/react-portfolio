@@ -27,6 +27,24 @@ li {
 }
 
 .images {
-  max-width: 40%;
+  max-width: 100%;
   height: auto;
+  padding-top: 20px;;
+}
+
+.card {
+  position: relative;
+  background-color: light;
+  border-color: black;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color:black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
 }
