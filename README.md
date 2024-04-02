@@ -73,22 +73,22 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ### Mock Up
 About Me
 
-![Alt text](./Assets/about.jpg)
+![Alt text](./public/Assets/about.jpg)
 
 Portfolio
 
-![Alt text](./Assets/portfolio.jpg)
+![Alt text](./public/Assets/portfolio.jpg)
 
 Contact
 
-![Alt text](./Assets/contact.jpg)
+![Alt text](./public/Assets/contact.jpg)
 
 Resume
 
-![Alt text](./Assets/resume.jpg)
+![Alt text](./public/Assets/resume.jpg)
 
 ## Installation/Execution
-https://vdunlop.github.io/react-portfolio/
+https://react-portfolio-vmd.netlify.app
 
 Open the react-portfolio by clicking on the above URL. It will open up to my About Me page which is a short bio of me.
 
