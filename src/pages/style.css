@@ -1,29 +1,30 @@
 .form {
-    margin: 20px;
-    width: 100%
-  }
-  
-  .form input {
-    display: block;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    width: 100%;
-  }
-  
-  .form label {
-     width: 50%;
-  }
-  
-  .form label textarea {
-    width: 100%;
-  }
+  margin: 20px;
+  width: 100%;
+}
 
-  .div {
-    background-color: burlywood;
-  }
-  li { 
-    list-style-type: none; }
+.form input {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+}
 
+.form label {
+  width: 50%;
+}
+
+.form label textarea {
+  width: 100%;
+}
+
+.div {
+  background-color: burlywood;
+}
+
+li {
+  list-style-type: none;
+}
 
 .images {
   max-width: 40%;
