@@ -14,19 +14,19 @@ function Footer() {
         <div class="row">
           <div class="col-md-6 col-lg-4 col-xl-3">
             <a href="https://github.com/vdunlop" target="_blank">
-              <img src="../public/Assets/githubsm.jpg"></img>
+              <img src="/Assets/githubsm.jpg"></img>
             </a>
           </div>
 
           <div class="col-md-6 col-lg-4 col-xl-3">
             <a href="https://www.linkedin.com" target="_blank">
-              <img src="../public/Assets/linkedinsm.jpg"></img>
+              <img src="/Assets/linkedinsm.jpg"></img>
             </a>
           </div>
 
           <div class="col-md-6 col-lg-4 col-xl-3">
             <a href="https://www.facebook.com" target="_blank">
-              <img src="../public/Assets/facebooksm.jpg"></img>
+              <img src="/Assets/facebooksm.jpg"></img>
             </a>
           </div>
         </div>

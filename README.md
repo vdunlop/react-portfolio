@@ -73,19 +73,19 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ### Mock Up
 About Me
 
-![Alt text](./public/Assets/about.jpg)
+![Alt text](/Assets/about.jpg)
 
 Portfolio
 
-![Alt text](./public/Assets/portfolio.jpg)
+![Alt text](/Assets/portfolio.jpg)
 
 Contact
 
-![Alt text](./public/Assets/contact.jpg)
+![Alt text](/Assets/contact.jpg)
 
 Resume
 
-![Alt text](./public/Assets/resume.jpg)
+![Alt text](/Assets/resume.jpg)
 
 ## Installation/Execution
 https://react-portfolio-vmd.netlify.app
